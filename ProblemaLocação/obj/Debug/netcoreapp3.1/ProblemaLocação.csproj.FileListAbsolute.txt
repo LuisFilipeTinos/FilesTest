@@ -1,0 +1,13 @@
+C:\Users\55149\Desktop\Work Space - Visual Studio\ProblemaLocação\ProblemaLocação\bin\Debug\netcoreapp3.1\ProblemaLocação.exe
+C:\Users\55149\Desktop\Work Space - Visual Studio\ProblemaLocação\ProblemaLocação\bin\Debug\netcoreapp3.1\ProblemaLocação.deps.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\ProblemaLocação\ProblemaLocação\bin\Debug\netcoreapp3.1\ProblemaLocação.runtimeconfig.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\ProblemaLocação\ProblemaLocação\bin\Debug\netcoreapp3.1\ProblemaLocação.runtimeconfig.dev.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\ProblemaLocação\ProblemaLocação\bin\Debug\netcoreapp3.1\ProblemaLocação.dll
+C:\Users\55149\Desktop\Work Space - Visual Studio\ProblemaLocação\ProblemaLocação\bin\Debug\netcoreapp3.1\ProblemaLocação.pdb
+C:\Users\55149\Desktop\Work Space - Visual Studio\ProblemaLocação\ProblemaLocação\obj\Debug\netcoreapp3.1\ProblemaLocação.csprojAssemblyReference.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\ProblemaLocação\ProblemaLocação\obj\Debug\netcoreapp3.1\ProblemaLocação.AssemblyInfoInputs.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\ProblemaLocação\ProblemaLocação\obj\Debug\netcoreapp3.1\ProblemaLocação.AssemblyInfo.cs
+C:\Users\55149\Desktop\Work Space - Visual Studio\ProblemaLocação\ProblemaLocação\obj\Debug\netcoreapp3.1\ProblemaLocação.csproj.CoreCompileInputs.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\ProblemaLocação\ProblemaLocação\obj\Debug\netcoreapp3.1\ProblemaLocação.dll
+C:\Users\55149\Desktop\Work Space - Visual Studio\ProblemaLocação\ProblemaLocação\obj\Debug\netcoreapp3.1\ProblemaLocação.pdb
+C:\Users\55149\Desktop\Work Space - Visual Studio\ProblemaLocação\ProblemaLocação\obj\Debug\netcoreapp3.1\ProblemaLocação.genruntimeconfig.cache
